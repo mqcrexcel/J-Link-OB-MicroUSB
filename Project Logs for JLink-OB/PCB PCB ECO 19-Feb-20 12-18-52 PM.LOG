@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Net*1_1 Pin=C6-2
+Added Pin To Net: NetName=Net*1_1 Pin=U1-6
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_2 Pin=C5-2
+Added Pin To Net: NetName=Net*1_2 Pin=U1-5
+Added Net: Name=Net*1_2
+Added Member To Class: ClassName=Schematic Member=Component C5 Capacitor Ceramic
+Added Member To Class: ClassName=Schematic Member=Component C6 Capacitor Ceramic

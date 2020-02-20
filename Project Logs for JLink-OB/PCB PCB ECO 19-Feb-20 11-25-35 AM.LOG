@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=X1 Old Footprint=XT2-32.768KHz-2_V New Footprint=CRYSTAL 3215
+Change Component Library : Designator=X1 Old Library=MQCrexcelV1.0.IntLib New Library=NBBLib 14-03-2012.IntLib
+Added Member To Class: ClassName=Schematic Member=Component C5 Capacitor Ceramic
+Added Member To Class: ClassName=Schematic Member=Component C6 Capacitor Ceramic
+Added Member To Class: ClassName=Schematic Member=Component C8 Capacitor Ceramic
+Added Member To Class: ClassName=Schematic Member=Component C9 Capacitor Ceramic
